@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercambio2", "Intercambio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discriminante", "Discriminante\Discriminante.csproj", "{2F8ED2A0-5B35-487B-AB2B-D1947352F4F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circunferencia", "Circunferencia\Circunferencia.csproj", "{8345E6D7-5A06-437E-B301-0E934A037134}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2F8ED2A0-5B35-487B-AB2B-D1947352F4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F8ED2A0-5B35-487B-AB2B-D1947352F4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F8ED2A0-5B35-487B-AB2B-D1947352F4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8345E6D7-5A06-437E-B301-0E934A037134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8345E6D7-5A06-437E-B301-0E934A037134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8345E6D7-5A06-437E-B301-0E934A037134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8345E6D7-5A06-437E-B301-0E934A037134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

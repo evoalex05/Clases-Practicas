@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discriminante", "Discrimina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circunferencia", "Circunferencia\Circunferencia.csproj", "{8345E6D7-5A06-437E-B301-0E934A037134}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fecha de Nacimiento", "Fecha de nacimiento\Fecha de Nacimiento.csproj", "{D1E9428E-AD25-4C11-8A05-8B994A433FF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8345E6D7-5A06-437E-B301-0E934A037134}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8345E6D7-5A06-437E-B301-0E934A037134}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8345E6D7-5A06-437E-B301-0E934A037134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E9428E-AD25-4C11-8A05-8B994A433FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E9428E-AD25-4C11-8A05-8B994A433FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E9428E-AD25-4C11-8A05-8B994A433FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E9428E-AD25-4C11-8A05-8B994A433FF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
